@@ -1,0 +1,8 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+gameto, Test Task, description of task, 08-09-23, 13-09-23, No
+admin, Test Task II, I give up on typing, 08-09-23, 12-09-23, No
+admin, task name, please work this time!, 08-09-23, 15-09-23, No
+gameto, test again, onong0ionomcdd, 08-09-23, 17-09-23, No
+admin, script amenedment, this is amendment 380y5804340, 08-09-23, 13-09-23, No
+admin, adm1n, Working?, 08-09-23, 11-09-23, No
